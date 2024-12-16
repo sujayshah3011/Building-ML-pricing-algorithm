@@ -1,0 +1,192 @@
+Name,Price,Base Price,Final Price
+Rasam,$ 4.95,4.95,5.94
+Sambar,$ 4.95,4.95,5.94
+Mulligatawny Soup,$ 4.95,4.95,5.94
+Garden Soup,$ 4.95,4.95,5.94
+Kachumbar Salad,$ 4.95,4.95,5.94
+Garden Salad,$ 4.95,4.95,5.94
+Veg Manchow soup,$ 4.95,4.95,5.94
+Tomato Soup,$ 4.95,4.95,5.94
+Katchumber Salad,$ 4.95,4.95,5.94
+Idly,$ 5.95,5.95,7.14
+Masala Idly,$ 7.95,7.95,9.54
+Mini Idly,$ 5.95,5.95,7.14
+Ghee fried Idly,$ 7.95,7.95,9.54
+Podi Idly,$ 6.95,6.95,8.34
+Chilli Idly,$ 7.95,7.95,9.54
+Idly in sambar bowl,$ 6.95,6.95,8.34
+Idly in Rasam bowl,$ 6.95,6.95,8.34
+Dami Idly,$ 5.95,5.95,7.14
+Dahi Idly,$ 5.95,5.95,7.14
+Medu Vada,$ 5.95,5.95,7.14
+Medu Vada in sambar bowl,$ 5.99,5.99,7.19
+Medu Vada in Rasam Bowl,$ 5.99,5.99,7.19
+Combo,$ 5.99,5.99,7.19
+Combo in Sambar Bowl,$ 5.99,5.99,7.19
+Masala Vada,$ 5.95,5.95,7.14
+Dahi Vada,$ 4.95,4.95,5.94
+Batata Vada,$ 4.95,4.95,5.94
+Mysore Bonda,$ 4.95,4.95,5.94
+Chennai Pakkoda,$ 4.95,4.95,5.94
+Spring rolls,$ 5.95,5.95,7.14
+Paneer Pakkoda,$ 6.95,6.95,8.34
+Samosa,$ 4.95,4.95,5.94
+Aloo Tikki,$ 4.95,4.95,5.94
+Chilli Pakora,$ 6.95,6.95,8.34
+Bhel puri,$ 6.95,6.95,8.34
+Samosa Chat,$ 6.95,6.95,8.34
+Aloo Tikki Chat,$ 6.95,6.95,8.34
+Papdi Chat,$ 6.95,6.95,8.34
+Dahi Bhalla,$ 6.95,6.95,8.34
+Channa Chat,$ 6.95,6.95,8.34
+Aloo Chat,$ 6.95,6.95,8.34
+Vadda Pav,$ 6.95,6.95,8.34
+Chilly Paneer Dry,$ 8.95,8.95,10.74
+Gobi Manchurian Dry,$ 9.95,9.95,11.94
+Chilli Mushroom,$ 9.95,9.95,11.94
+Crispy Chilli Potato,$ 9.95,9.95,11.94
+Honey Garlic Gobi,$ 9.95,9.95,11.94
+Gobi Lasuni,$ 9.95,9.95,11.94
+Veg Hakka Noodles,$ 9.95,9.95,11.94
+Veg Fried Rice,$ 9.95,9.95,11.94
+Chinese Dosa,$ 11.95,11.95,14.34
+Veg Manchurian,$ 9.95,9.95,11.94
+baby corn chilli manchurian,$ 10.95,10.95,13.14
+Chilli Paneer Dry,$ 9.95,9.95,11.94
+Sada Dosa,$ 8.95,8.95,10.74
+Masala Dosa,$ 9.95,9.95,11.94
+Butter Sada Dosa,$ 8.95,8.95,10.74
+Butter Masala Dosa,$ 9.95,9.95,11.94
+Ghee Roast,$ 8.95,8.95,10.74
+Paper Roast Dosa,$ 9.95,9.95,11.94
+Mysore Sada Dosa,$ 9.95,9.95,11.94
+Podi Masala Dosa,$ 9.95,9.95,11.94
+Gun Powder masala dosa,$ 9.95,9.95,11.94
+Onion Chilli Sada Dosa,$ 9.95,9.95,11.94
+Onion Chilli Masala Dosa,$ 9.95,9.95,11.94
+Mysore Masala Dosa,$ 9.95,9.95,11.94
+Ghee Masala Roast,$ 8.95,8.95,10.74
+Set Dosa,$ 8.95,8.95,10.74
+Chef Special Sampler Dosa 5 Kinds,$ 21.95,21.95,26.34
+Mushroom Masala Dosa,$ 10.75,10.75,12.9
+Jaipur Dosa,$ 11.95,11.95,14.34
+Paneer Masala Dosa,$ 11.95,11.95,14.34
+Paneer Bhurji Dosa,$ 12.95,12.95,15.54
+Spinach Masala Dosa,$ 11.95,11.95,14.34
+Cheese Onion Chili Masala Dosa,$ 11.95,11.95,14.34
+Cheese Masala Dosa or sada,$ 10.95,10.95,13.14
+Spring Masala Dosa,$ 11.95,11.95,14.34
+Pondicherry Masala Dosa,$ 11.95,11.95,14.34
+Paneer Pondicherry Dosa,$ 11.95,11.95,14.34
+"Mushroom, Paneer, Spinach Masala Dosa",$ 13.95,13.95,16.74
+Cheese Pondicherry dosa,$ 11.95,11.95,14.34
+Cheese Sada Dosa,$ 10.75,10.75,12.9
+Plain Uthappam,$ 8.95,8.95,10.74
+Vegetable Uthappam,$ 9.95,9.95,11.94
+Onion Chilli Uthappam,$ 10.95,10.95,13.14
+Mushroom Uthappam,$ 10.95,10.95,13.14
+Onion Chilli Garlic Uthappam,$ 10.95,10.95,13.14
+Gun Powder Uthappam,$ 10.95,10.95,13.14
+Vegetable cheese Uthappam,$ 11.95,11.95,14.34
+Paneer Uthappam,$ 11.95,11.95,14.34
+Custom Uthappam,$ 12.95,12.95,15.54
+Rava Sada Dosa,$ 11.95,11.95,14.34
+Onion Rava Masala Dosa,$ 11.95,11.95,14.34
+Onion Mysore Rava Masala Dosa,$ 11.95,11.95,14.34
+Madras Rava Masala Dosa,$ 11.95,11.95,14.34
+Cheese Onion Rava Masala Dosa,$ 12.95,12.95,15.54
+Coconut Rava Masala Dosa,$ 11.95,11.95,14.34
+Matka Dosa,$ 14.95,14.95,17.94
+Jinni Dosa,$ 14.95,14.95,17.94
+Village Special Dosa- Rava,$ 14.95,14.95,17.94
+Village Special Dosa- Regular,$ 14.95,14.95,17.94
+Aloo Gobi or Mutter or Palak,$ 11.95,11.95,14.34
+Gobi mutter or Aloo,$ 11.95,11.95,14.34
+Chana Masala,$ 11.95,11.95,14.34
+Chana Palak,$ 11.95,11.95,14.34
+Aloo,$ 10.95,10.95,13.14
+Mutter,$ 10.95,10.95,13.14
+Dal Makhni,$ 11.95,11.95,14.34
+Daal Tadka / Palak,$ 11.95,11.95,14.34
+Alu Baingan,$ 11.95,11.95,14.34
+Daal tadka,$ 10.95,10.95,13.14
+Mutter Paneer,$ 12.95,12.95,15.54
+Palak Paneer,$ 12.95,12.95,15.54
+Saag Paneer,$ 12.95,12.95,15.54
+Paneer Tikka Masala,$ 12.95,12.95,15.54
+Kadai Paneer,$ 12.95,12.95,15.54
+Methi Mutter Malai,$ 12.95,12.95,15.54
+Kadai Mushroom,$ 12.95,12.95,15.54
+Malai Kofta,$ 12.95,12.95,15.54
+Paneer Bhurji,$ 12.95,12.95,15.54
+Bhindi Masala,$ 11.95,11.95,14.34
+Egg Plant Curry,$ 11.95,11.95,14.34
+Baigan Bharta,$ 11.95,11.95,14.34
+Nav Ratan Korma,$ 11.95,11.95,14.34
+Vegetable Korma (Vegan),$ 11.95,11.95,14.34
+Aloo Baingan,$ 10.95,10.95,13.14
+Veg Kolhapuri,$ 10.95,10.95,13.14
+Palak,$ 10.95,10.95,13.14
+Paneer,$ 11.95,11.95,14.34
+Mix Vegetables,$ 11.95,11.95,14.34
+Gobi,$ 11.95,11.95,14.34
+Soya,$ 11.95,11.95,14.34
+Chole Bature,$ 12.95,12.95,15.54
+Poori Bhaji,$ 8.95,8.95,10.74
+Poori Kurma,$ 11.95,11.95,14.34
+Uppma,$ 8.95,8.95,10.74
+Pongal,$ 8.95,8.95,10.74
+Avial,$ 11.95,11.95,14.34
+Chilli Paratha,$ 10.95,10.95,13.14
+Chole Poori,$ 12.95,12.95,15.54
+Kuthu Chilli Paratha,$ 11.95,11.95,14.34
+Poondu Kulambu (Garlic),$ 12.95,12.95,15.54
+Ennai Kathrika Kulambu (Egg plant),$ 12.95,12.95,15.54
+Vendaikai Kulambu (Okra),$ 11.95,11.95,14.34
+Murungaikai Kulambu (Drumstick),$ 12.95,12.95,15.54
+Chennai Thali,$ 15.95,15.95,19.14
+South Indian Thali,$ 15.95,15.95,19.14
+North Indian Thali,$ 15.95,15.95,19.14
+Roti,$ 3.95,3.95,4.74
+Paratha,$ 4.95,4.95,5.94
+Poori,$ 4.95,4.95,5.94
+Alu Paratha,$ 6.95,6.95,8.34
+Onion Paratha,$ 6.95,6.95,8.34
+Gobi Paratha,$ 6.95,6.95,8.34
+Onion chilli Paratha,$ 5.95,5.95,7.14
+Cheese Paratha,$ 6.95,6.95,8.34
+Paneer Paratha,$ 6.95,6.95,8.34
+Batura,$ 4.95,4.95,5.94
+Onion / Chilly Kuthu Parantha,$ 6.95,6.95,8.34
+Dum Biryani,$ 11.95,11.95,14.34
+Veg Pullav,$ 9.95,9.95,11.94
+Jeera Rice,$ 9.95,9.95,11.94
+Lemon Rice,$ 9.95,9.95,11.94
+Tamarind Rice,$ 9.95,9.95,11.94
+Vangi Bhath,$ 9.95,9.95,11.94
+B.B.B Bishibilabath,$ 9.95,9.95,11.94
+Tomato Rice,$ 9.95,9.95,11.94
+Coconut Rice,$ 9.95,9.95,11.94
+Yogurt Rice,$ 9.95,9.95,11.94
+Gulab Jamun,$ 4.95,4.95,5.94
+Rasamalai,$ 4.95,4.95,5.94
+Kheer,$ 4.95,4.95,5.94
+Semiya Payasam,$ 4.95,4.95,5.94
+Badam Halwa,$ 5.95,5.95,7.14
+Kulfi Malai,$ 4.95,4.95,5.94
+Halwa with Ice Cream,$ 6.95,6.95,8.34
+"Soda- Coke, D. Coke, Thumps up, Limca sprite, Ginger / Water",$ 2.95,2.95,3.54
+Lassi-Mango,$ 4.95,4.95,5.94
+Hot Drink-Madras Coffee,$ 2.95,2.95,3.54
+Shakes -Vennila,$ 4.95,4.95,5.94
+D. Coke,$ 1.95,1.95,2.34
+Sprite,$ 1.95,1.95,2.34
+Ginger,$ 1.95,1.95,2.34
+water,$ 1.95,1.95,2.34
+Lassi- Sweet,$ 4.95,4.95,5.94
+Lassi- Salted,$ 4.95,4.95,5.94
+Lassi- Chaas,$ 4.95,4.95,5.94
+Hot Drink-Masala Tea,$ 2.95,2.95,3.54
+Hot Drink- Herbal Tea,$ 2.95,2.95,3.54
+Shakes - Mango,$ 4.95,4.95,5.94
+Shakes -Chikoo,$ 4.95,4.95,5.94

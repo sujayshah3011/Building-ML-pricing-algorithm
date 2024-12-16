@@ -1,0 +1,147 @@
+Restaurant_csv1,Item_csv1,Price_csv1,Restaurant_csv2,Item_csv2,Price_csv2,Similarity
+village soul of india,Rasam,$ 4.95,Taste of Chennai,Rasam,$7.49,100.0
+village soul of india,Sambar,$ 4.95,Taste of Chennai,Sambar,$7.49,100.0
+village soul of india,Mulligatawny Soup,$ 4.95,Taste of Mumbai,Mulligatawny Soup,$3.99,100.0
+village soul of india,Kachumbar Salad,$ 4.95,Taste of Mumbai,Kachumber Salad,$2.99,93.33333333333333
+village soul of india,Garden Salad,$ 4.95,Diwan Indian Restaurant and Bar,Fresh Garden Salad,$9.95,100.0
+village soul of india,Veg Manchow soup,$ 4.95,Taste of Mumbai,Manchow Soup,$3.99,100.0
+village soul of india,Tomato Soup,$ 4.95,Taste of Mumbai,Tomato Soup,$3.99,100.0
+village soul of india,Katchumber Salad,$ 4.95,Dosa World South & North Indian Vegetarian Restaurant,Katchumber Salad,$4.75,100.0
+village soul of india,Mini Idly,$ 5.95,Taste of Chennai,Mini Idli (10 pcs),$8.99,94.11764705882352
+village soul of india,Ghee fried Idly,$ 7.95,Dosa World South & North Indian Vegetarian Restaurant,Ghee,$0.50,100.0
+village soul of india,Idly in sambar bowl,$ 6.95,Taste of Chennai,Sambar,$7.49,100.0
+village soul of india,Idly in Rasam bowl,$ 6.95,Taste of Chennai,Rasam,$7.49,100.0
+village soul of india,Dahi Idly,$ 5.95,Punjabi Dhaba Hicksville,Dahi,$4.00,100.0
+village soul of india,Medu Vada,$ 5.95,Dosa World South & North Indian Vegetarian Restaurant,Medu Vada,$5.99,100.0
+village soul of india,Medu Vada in sambar bowl,$ 5.99,Taste of Chennai,Sambar,$7.49,100.0
+village soul of india,Medu Vada in Rasam Bowl,$ 5.99,Taste of Chennai,Rasam,$7.49,100.0
+village soul of india,Combo,$ 5.99,Main Bakhtar Halal Kabab,#4 Family combo (10 people) 5 cht 4 Chk 3 beef k 3 beef tikka,$120.00,100.0
+village soul of india,Combo in Sambar Bowl,$ 5.99,Taste of Chennai,Sambar,$7.49,100.0
+village soul of india,Dahi Vada,$ 4.95,Punjabi Dhaba Hicksville,Dahi,$4.00,100.0
+village soul of india,Batata Vada,$ 4.95,Dosa World South & North Indian Vegetarian Restaurant,Batata Vada,$5.99,100.0
+village soul of india,Mysore Bonda,$ 4.95,Dosa World South & North Indian Vegetarian Restaurant,Bonda,$4.99,100.0
+village soul of india,Spring rolls,$ 5.95,Taste of Mumbai,Spring Roll,$7.99,100.0
+village soul of india,Paneer Pakkoda,$ 6.95,Punjabi Dhaba Hicksville,Paneer Pakora(1 Lb),$10.00,88.88888888888889
+village soul of india,Samosa,$ 4.95,Diwan Indian Restaurant and Bar,Samosa,$9.95,100.0
+village soul of india,Aloo Tikki,$ 4.95,Diwan Indian Restaurant and Bar,Aloo Tikki Chat,$13.95,100.0
+village soul of india,Chilli Pakora,$ 6.95,Dosa World South & North Indian Vegetarian Restaurant,Pakora,$5.99,100.0
+village soul of india,Bhel puri,$ 6.95,Diwan Indian Restaurant and Bar,Bhel Puri,$11.95,100.0
+village soul of india,Samosa Chat,$ 6.95,Diwan Indian Restaurant and Bar,Samosa,$9.95,100.0
+village soul of india,Aloo Tikki Chat,$ 6.95,Diwan Indian Restaurant and Bar,Aloo Tikki Chat,$13.95,100.0
+village soul of india,Papdi Chat,$ 6.95,Taste of Mumbai,Papdi Chaat,$4.99,94.73684210526316
+village soul of india,Dahi Bhalla,$ 6.95,Punjabi Dhaba Hicksville,Dahi Bhalla Chat,$8.00,100.0
+village soul of india,Channa Chat,$ 6.95,Dosa World South & North Indian Vegetarian Restaurant,Chana Chaat,$5.99,90.9090909090909
+village soul of india,Vadda Pav,$ 6.95,Taste of Mumbai,Vada Pav,$4.99,87.5
+village soul of india,Chilly Paneer Dry,$ 8.95,Punjabi Dhaba Hicksville,Chilli Paneer,$13.00,92.3076923076923
+village soul of india,Gobi Manchurian Dry,$ 9.95,Dosa World South & North Indian Vegetarian Restaurant,Gobi Manchurian,$8.99,100.0
+village soul of india,Chilli Mushroom,$ 9.95,Taste of Mumbai,Chilli Mushroom,$9.99,100.0
+village soul of india,Veg Hakka Noodles,$ 9.95,Taste of Mumbai,Veg Hakka Noodles,$9.99,100.0
+village soul of india,Veg Fried Rice,$ 9.95,Main Bakhtar Halal Kabab,Rice,$4.99,100.0
+village soul of india,Chinese Dosa,$ 11.95,Taste of Chennai,Set Dosa,$9.99,93.33333333333333
+village soul of india,Veg Manchurian,$ 9.95,Taste of Mumbai,Chicken Manchurian,$12.99,88.88888888888889
+village soul of india,baby corn chilli manchurian,$ 10.95,Dosa World South & North Indian Vegetarian Restaurant,Gobi Manchurian,$8.99,88.88888888888889
+village soul of india,Chilli Paneer Dry,$ 9.95,Punjabi Dhaba Hicksville,Chilli Paneer,$13.00,100.0
+village soul of india,Sada Dosa,$ 8.95,Dosa World South & North Indian Vegetarian Restaurant,Sada Dosa,$9.99,100.0
+village soul of india,Masala Dosa,$ 9.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Butter Sada Dosa,$ 8.95,Dosa World South & North Indian Vegetarian Restaurant,Sada Dosa,$9.99,100.0
+village soul of india,Butter Masala Dosa,$ 9.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Ghee Roast,$ 8.95,Taste of Chennai,Ghee Roast,$10.99,100.0
+village soul of india,Paper Roast Dosa,$ 9.95,Taste of Chennai,Set Dosa,$9.99,93.33333333333333
+village soul of india,Mysore Sada Dosa,$ 9.95,Dosa World South & North Indian Vegetarian Restaurant,Sada Dosa,$9.99,100.0
+village soul of india,Podi Masala Dosa,$ 9.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Gun Powder masala dosa,$ 9.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Onion Chilli Sada Dosa,$ 9.95,Dosa World South & North Indian Vegetarian Restaurant,Sada Dosa,$9.99,100.0
+village soul of india,Onion Chilli Masala Dosa,$ 9.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Mysore Masala Dosa,$ 9.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Ghee Masala Roast,$ 8.95,Dosa World South & North Indian Vegetarian Restaurant,Ghee,$0.50,100.0
+village soul of india,Set Dosa,$ 8.95,Taste of Chennai,Set Dosa,$9.99,100.0
+village soul of india,Mushroom Masala Dosa,$ 10.75,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Paneer Masala Dosa,$ 11.95,Diwan Indian Restaurant and Bar,Paneer Masala,$19.95,100.0
+village soul of india,Paneer Bhurji Dosa,$ 12.95,Punjabi Dhaba Hicksville,Paneer Bhurji,$13.00,100.0
+village soul of india,Spinach Masala Dosa,$ 11.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Cheese Onion Chili Masala Dosa,$ 11.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Cheese Masala Dosa or sada,$ 10.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Spring Masala Dosa,$ 11.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Pondicherry Masala Dosa,$ 11.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,"Mushroom, Paneer, Spinach Masala Dosa",$ 13.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Cheese Pondicherry dosa,$ 11.95,Taste of Chennai,Cheese Pondicherry Masala,$14.99,91.30434782608697
+village soul of india,Cheese Sada Dosa,$ 10.75,Dosa World South & North Indian Vegetarian Restaurant,Sada Dosa,$9.99,100.0
+village soul of india,Vegetable Uthappam,$ 9.95,Dosa World South & North Indian Vegetarian Restaurant,Mixed Vegetable Uttapam,$9.99,91.42857142857143
+village soul of india,Mushroom Uthappam,$ 10.95,Dosa World South & North Indian Vegetarian Restaurant,Mushroom Uttapam,$9.99,87.5
+village soul of india,Vegetable cheese Uthappam,$ 11.95,Dosa World South & North Indian Vegetarian Restaurant,Mixed Vegetable Cheese Uttapam,$11.99,93.87755102040816
+village soul of india,Rava Sada Dosa,$ 11.95,Dosa World South & North Indian Vegetarian Restaurant,Sada Dosa,$9.99,100.0
+village soul of india,Onion Rava Masala Dosa,$ 11.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Onion Mysore Rava Masala Dosa,$ 11.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Madras Rava Masala Dosa,$ 11.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Cheese Onion Rava Masala Dosa,$ 12.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Coconut Rava Masala Dosa,$ 11.95,Taste of Chennai,Masala Dosa,$10.99,100.0
+village soul of india,Aloo Gobi or Mutter or Palak,$ 11.95,Diwan Indian Restaurant and Bar,Aloo Gobhi,$18.95,94.73684210526316
+village soul of india,Chana Masala,$ 11.95,Kathis & Kababs,Chana Masala (16 OZ),$11.95,100.0
+village soul of india,Chana Palak,$ 11.95,Dosa World South & North Indian Vegetarian Restaurant,Alu Palak,$12.99,87.5
+village soul of india,Aloo,$ 10.95,Kathis & Kababs,1. Achari Aaloo Kathi Roll,$11.95,100.0
+village soul of india,Mutter,$ 10.95,Punjabi Dhaba Hicksville,Mutter Paneer,$13.00,100.0
+village soul of india,Dal Makhni,$ 11.95,Kathis & Kababs,Dal Makhni (16 OZ),$11.95,100.0
+village soul of india,Alu Baingan,$ 11.95,Taste of Mumbai,Bagara Baingan,$13.99,90.0
+village soul of india,Mutter Paneer,$ 12.95,Punjabi Dhaba Hicksville,Mutter Paneer,$13.00,100.0
+village soul of india,Palak Paneer,$ 12.95,Punjabi Dhaba Hicksville,Palak Paneer,$13.00,100.0
+village soul of india,Saag Paneer,$ 12.95,Kathis & Kababs,Saag Paneer,$11.95,100.0
+village soul of india,Paneer Tikka Masala,$ 12.95,Diwan Indian Restaurant and Bar,Paneer Tikka,$23.95,100.0
+village soul of india,Kadai Paneer,$ 12.95,Taste of Chennai,Kadai Paneer,$15.49,100.0
+village soul of india,Methi Mutter Malai,$ 12.95,Taste of Mumbai,Ras Malai,$4.99,87.5
+village soul of india,Malai Kofta,$ 12.95,Diwan Indian Restaurant and Bar,Malai Kofta- OVER RICE- Lunch Special,$12.95,100.0
+village soul of india,Paneer Bhurji,$ 12.95,Punjabi Dhaba Hicksville,Paneer Bhurji,$13.00,100.0
+village soul of india,Bhindi Masala,$ 11.95,Diwan Indian Restaurant and Bar,Bhindi Masala,$19.95,100.0
+village soul of india,Baigan Bharta,$ 11.95,Punjabi Dhaba Hicksville,Baingan Bharta,$13.00,92.3076923076923
+village soul of india,Nav Ratan Korma,$ 11.95,Diwan Indian Restaurant and Bar,Navrattan Korma,$18.95,93.33333333333333
+village soul of india,Aloo Baingan,$ 10.95,Taste of Mumbai,Aloo Baingan,$13.99,100.0
+village soul of india,Palak,$ 10.95,Punjabi Dhaba Hicksville,Palak Paneer,$13.00,100.0
+village soul of india,Paneer,$ 11.95,Kathis & Kababs,2. Paneer Tikka Kathi Roll,$11.95,100.0
+village soul of india,Mix Vegetables,$ 11.95,Punjabi Dhaba Hicksville,Mix Vegetable,$13.00,100.0
+village soul of india,Gobi,$ 11.95,Taste of Chennai,Lasuni Gobi,$11.49,100.0
+village soul of india,Chole Bature,$ 12.95,Dosa World South & North Indian Vegetarian Restaurant,Chole Batura,$14.99,95.65217391304348
+village soul of india,Poori Bhaji,$ 8.95,Taste of Mumbai,Poori,$1.50,100.0
+village soul of india,Poori Kurma,$ 11.95,Taste of Mumbai,Poori,$1.50,100.0
+village soul of india,Pongal,$ 8.95,Dosa World South & North Indian Vegetarian Restaurant,Pongal,$8.99,100.0
+village soul of india,Avial,$ 11.95,Dosa World South & North Indian Vegetarian Restaurant,Avial,$13.99,100.0
+village soul of india,Chilli Paratha,$ 10.95,Taste of Chennai,Paratha,$4.99,100.0
+village soul of india,Chole Poori,$ 12.95,Taste of Mumbai,Poori,$1.50,100.0
+village soul of india,Kuthu Chilli Paratha,$ 11.95,Taste of Chennai,Paratha,$4.99,100.0
+village soul of india,Vendaikai Kulambu (Okra),$ 11.95,Dosa World South & North Indian Vegetarian Restaurant,Vendaikai Kuzhambu,$12.99,91.42857142857143
+village soul of india,Chennai Thali,$ 15.95,Punjabi Dhaba Hicksville,Thali,$12.00,100.0
+village soul of india,South Indian Thali,$ 15.95,Punjabi Dhaba Hicksville,Thali,$12.00,100.0
+village soul of india,North Indian Thali,$ 15.95,Punjabi Dhaba Hicksville,Thali,$12.00,100.0
+village soul of india,Roti,$ 3.95,Kathis & Kababs,Tandoori Roti,$2.95,100.0
+village soul of india,Paratha,$ 4.95,Diwan Indian Restaurant and Bar,Aloo Paratha,$7.95,100.0
+village soul of india,Poori,$ 4.95,Taste of Mumbai,Poori,$1.50,100.0
+village soul of india,Alu Paratha,$ 6.95,Taste of Chennai,Paratha,$4.99,100.0
+village soul of india,Onion Paratha,$ 6.95,Taste of Chennai,Paratha,$4.99,100.0
+village soul of india,Gobi Paratha,$ 6.95,Taste of Chennai,Paratha,$4.99,100.0
+village soul of india,Onion chilli Paratha,$ 5.95,Taste of Chennai,Paratha,$4.99,100.0
+village soul of india,Cheese Paratha,$ 6.95,Taste of Chennai,Paratha,$4.99,100.0
+village soul of india,Paneer Paratha,$ 6.95,Taste of Chennai,Paratha,$4.99,100.0
+village soul of india,Batura,$ 4.95,Dosa World South & North Indian Vegetarian Restaurant,Chole Batura,$14.99,100.0
+village soul of india,Dum Biryani,$ 11.95,Taste of Chennai,Mutton Dum Biryani,$20.99,100.0
+village soul of india,Jeera Rice,$ 9.95,Main Bakhtar Halal Kabab,Rice,$4.99,100.0
+village soul of india,Lemon Rice,$ 9.95,Main Bakhtar Halal Kabab,Rice,$4.99,100.0
+village soul of india,Tamarind Rice,$ 9.95,Main Bakhtar Halal Kabab,Rice,$4.99,100.0
+village soul of india,B.B.B Bishibilabath,$ 9.95,Dosa World South & North Indian Vegetarian Restaurant,Bisibilabath,$8.99,91.66666666666666
+village soul of india,Tomato Rice,$ 9.95,Main Bakhtar Halal Kabab,Rice,$4.99,100.0
+village soul of india,Coconut Rice,$ 9.95,Main Bakhtar Halal Kabab,Rice,$4.99,100.0
+village soul of india,Yogurt Rice,$ 9.95,Main Bakhtar Halal Kabab,Rice,$4.99,100.0
+village soul of india,Gulab Jamun,$ 4.95,Kathis & Kababs,Gulab Jamun,$5.95,100.0
+village soul of india,Rasamalai,$ 4.95,Taste of Chennai,Rasam,$7.49,100.0
+village soul of india,Kheer,$ 4.95,Kathis & Kababs,Kheer,$5.95,100.0
+village soul of india,Semiya Payasam,$ 4.95,Taste of Chennai,Payasam,$4.49,100.0
+village soul of india,Badam Halwa,$ 5.95,Taste of Chennai,Badam Halwa,$4.99,100.0
+village soul of india,Kulfi Malai,$ 4.95,Taste of Chennai,Kulfi,$2.99,100.0
+village soul of india,Halwa with Ice Cream,$ 6.95,Taste of Chennai,Ice Cream,$2.99,100.0
+village soul of india,"Soda- Coke, D. Coke, Thumps up, Limca sprite, Ginger / Water",$ 2.95,Main Bakhtar Halal Kabab,Water,$2.00,100.0
+village soul of india,Lassi-Mango,$ 4.95,Diwan Indian Restaurant and Bar,Lassi,$7.95,100.0
+village soul of india,Hot Drink-Madras Coffee,$ 2.95,Diwan Indian Restaurant and Bar,Coffee,$3.95,100.0
+village soul of india,Ginger,$ 1.95,Punjabi Dhaba Hicksville,Bhindi Balti Okra(Ladi finger),$13.00,90.9090909090909
+village soul of india,water,$ 1.95,Main Bakhtar Halal Kabab,Water,$2.00,100.0
+village soul of india,Lassi- Sweet,$ 4.95,Diwan Indian Restaurant and Bar,Lassi,$7.95,100.0
+village soul of india,Lassi- Salted,$ 4.95,Diwan Indian Restaurant and Bar,Lassi,$7.95,100.0
+village soul of india,Lassi- Chaas,$ 4.95,Diwan Indian Restaurant and Bar,Lassi,$7.95,100.0
+village soul of india,Hot Drink-Masala Tea,$ 2.95,Diwan Indian Restaurant and Bar,Masala Tea,$4.95,100.0
+village soul of india,Hot Drink- Herbal Tea,$ 2.95,Diwan Indian Restaurant and Bar,Tea,$3.95,100.0
